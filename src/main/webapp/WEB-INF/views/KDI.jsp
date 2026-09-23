@@ -10,6 +10,6 @@
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 </head>
 <body>
-	으어ㅏ아아ㅏ아ㅏ아아아아ㅏ아ㅏ아
+	야호
 </body>
 </html>
